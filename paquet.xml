@@ -1,0 +1,22 @@
+<paquet
+	prefix="articleur"
+	categorie="outil"
+	version="1.0.0"
+	etat="dev"
+	compatibilite="[3.0.17;3.0.*]"
+	logo=""
+	documentation=""
+>
+	<!--
+		Paquet genere le 2014-11-28 16:43:57
+	-->
+
+	<nom>articleur</nom>
+
+	<auteur lien='http://www.vertige.org'>vertige (Didier)</auteur>
+
+	<licence>GNU/GPL</licence>
+
+
+
+</paquet>
